@@ -48,7 +48,7 @@ tag = "$blue"
 type = "#acf2e4"
 "type.builtin" = "$purple"
 typeAlias = "$cyan"
-variable = "$red"
+variable = "$white"
 "variable.other.member" = "$green"
 
 [color-theme.ui]
